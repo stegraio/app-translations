@@ -19,7 +19,7 @@ Coming soon...
 
 ## When will my contribution be available in the app?
 
-We will review the pull requests as soon as possible and merge them into the master branch. The translations will be available in the next release of the app.
+We will review the pull requests as soon as possible and merge them into the main branch. The translations will be available in the next release of the app.
 
 ## Thank you to all the contributors
 
