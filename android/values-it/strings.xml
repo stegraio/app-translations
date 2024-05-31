@@ -50,7 +50,7 @@
     <string name="util_date_just_now">poco fa</string>
     <string name="util_date_a_minute_ago">un minuto fa</string>
     <string name="util_date_minutes_ago">minuti fa</string>
-    <string name="util_date_an_hour_ago">un'ora fa</string>
+    <string name="util_date_an_hour_ago">un\'ora fa</string>
     <string name="util_date_hours_ago">ore fa</string>
     <string name="util_date_yesterday">ieri</string>
     <string name="util_date_days_ago">giorni fa</string>
@@ -90,7 +90,7 @@
     <string name="payment_offer_billed_6_months_txt">Fatturato ogni 6 mesi</string>
     <string name="payment_offer_billed_annualy_txt">Fatturato annualmente</string>
     <string name="payment_offer_cancel_anytime">annulla in qualsiasi momento</string>
-    <string name="settings_payment_manage_sub_info">Per gestire il tuo abbonamento, vai al sito web stegra.io e gestisci l'abbonamento sotto Gestisci Account</string>
+    <string name="settings_payment_manage_sub_info">Per gestire il tuo abbonamento, vai al sito web stegra.io e gestisci l\'abbonamento sotto Gestisci Account</string>
     <string name="settings_payment_manage_sub_info_google">Per gestire il tuo abbonamento, vai al Play Store nel tuo dispositivo poi > profilo > Pagamenti e Abbonamenti</string>
     <string name="stegra_core_expires_at_lbl">Scadenza</string>
     <string name="promo_nav_title">Navigazione a funzionalità completa</string>
@@ -98,7 +98,7 @@
     <string name="promo_offline_maps_title">Mappe offline</string>
     <string name="promo_offline_maps_text">Accedi alle mappe offline, assicurandoti di non perdere mai la strada, anche in aree remote senza accesso a Internet.</string>
     <string name="promo_multiple_routes_title">Navigazione con più percorsi</string>
-    <string name="promo_multiple_routes_text">Aggiungi e naviga facilmente tutti i tuoi percorsi preferiti, assicurando un'esplorazione senza interruzioni.</string>
+    <string name="promo_multiple_routes_text">Aggiungi e naviga facilmente tutti i tuoi percorsi preferiti, assicurando un\'esplorazione senza interruzioni.</string>
     <string name="promo_unlimited_routes_title">Creazione di percorsi illimitati</string>
     <string name="promo_unlimited_routes_text">Crea infiniti percorsi da esplorare, tutti salvati in modo sicuro nel nostro cloud per un accesso conveniente.</string>
     <string name="promo_adv_mode_title">Modalità Avventura</string>
@@ -106,7 +106,7 @@
     <string name="promo_curvy_mode_title">Modalità Curvy</string>
     <string name="promo_curvy_mode_text">Crea i migliori percorsi curvi per la sensazione di libertà ed eccitazione durante il viaggio.</string>
     <string name="promo_controller_title">Supporto per controller</string>
-    <string name="promo_controller_text">Mappa i tuoi controller per controllare Stegra.io, fornendo facilità d'uso senza la necessità di togliersi i guanti.</string>
+    <string name="promo_controller_text">Mappa i tuoi controller per controllare Stegra.io, fornendo facilità d\'uso senza la necessità di togliersi i guanti.</string>
     <string name="promo_title">Sblocca tutto il potenziale di Stegra.io!</string>
     <string name="promo_text">Tutte le funzionalità incluse</string>
     <string name="promo_button_trial_text">Sblocca tutte le funzionalità, prova Stegra.io Core per 7 giorni</string>
@@ -125,7 +125,7 @@
     <string name="start_lbl">Inizio</string>
     <string name="start_ride_lbl">Inizia giro</string>
     <string name="segment_lbl">Segmento</string>
-    <string name="segment_last_segment">Questo è l'ultimo segmento</string>
+    <string name="segment_last_segment">Questo è l\'ultimo segmento</string>
     <string name="segment_details_lbl">Dettagli del segmento</string>
     <string name="delete_lbl">Elimina</string>
     <string name="close_lbl">Chiudi</string>
@@ -140,7 +140,7 @@
     <string name="route_mode_adv_lbl">Avventura</string>
     <string name="route_mode_adv_txt">Questa modalità percorso è progettata per preferire le strade non asfaltate. Le sezioni con questa modalità percorso hanno strade con superfici non asfaltate come priorità e cercano di evitare autostrade e strade principali.</string>
     <string name="route_mode_curvy_lbl">Curvy</string>
-    <string name="route_mode_curvy_txt">Questa modalità percorso è specificamente studiata per abbracciare il brivido delle strade asfaltate e tortuose. Curvy Tarmac dà priorità al fascino serpentino delle strade più piccole e meno frequentate, evocando il brivido di ogni curva e svolta. Evitando deliberatamente autostrade e strade principali, il nostro obiettivo è offrire le esperienze più emozionanti su asfalto curvo. Preparati ad abbracciare l'avventura del percorso meno battuto, una curva alla volta.</string>
+    <string name="route_mode_curvy_txt">Questa modalità percorso è specificamente studiata per abbracciare il brivido delle strade asfaltate e tortuose. Curvy Tarmac dà priorità al fascino serpentino delle strade più piccole e meno frequentate, evocando il brivido di ogni curva e svolta. Evitando deliberatamente autostrade e strade principali, il nostro obiettivo è offrire le esperienze più emozionanti su asfalto curvo. Preparati ad abbracciare l\'avventura del percorso meno battuto, una curva alla volta.</string>
     <string name="route_mode_highway_lbl">Autostrada</string>
     <string name="route_mode_highway_txt">Questa modalità percorso è progettata per portarti direttamente a destinazione. Le sezioni con questa modalità percorso hanno come priorità autostrade e strade principali e cercano di evitare strade non asfaltate e strade minori.</string>
     <string name="route_mode_walking_lbl">A piedi</string>
@@ -178,7 +178,7 @@
     <string name="map_settings_auto_hide_lbl">Nascondi automaticamente i controlli durante il viaggio</string>
     <string name="map_settings_auto_re_calc_lbl">Ricalcolo automatico quando fuori percorso</string>
     <string name="map_settings_auto_re_center_lbl">Riposizionamento automatico durante il viaggio</string>
-    <string name="map_settings_auto_zoom_lbl">Zoom automatico all'inizio del viaggio</string>
+    <string name="map_settings_auto_zoom_lbl">Zoom automatico all\'inizio del viaggio</string>
     <string name="map_settings_show_tilt_lbl">Mostra pulsanti di inclinazione</string>
     <string name="map_settings_show_speed_lbl">Mostra tachimetro/segno di velocità</string>
     <string name="map_settings_show_compass_lbl">Mostra bussola</string>
@@ -214,7 +214,7 @@
     <string name="notifications_empty_txt">Nessuna notifica</string>
     <string name="profile_uploading_image_txt">Caricamento immagine...</string>
     <string name="profile_uploading_image_success_txt">Immagine caricata...</string>
-    <string name="profile_uploading_image_error_txt">Errore durante il caricamento dell'immagine...</string>
+    <string name="profile_uploading_image_error_txt">Errore durante il caricamento dell\'immagine...</string>
     <string name="generic_tab_routes">Percorsi</string>
     <string name="generic_tab_joined">Unito</string>
     <string name="upload_browse_library_lbl">Sfoglia dalla libreria</string>
@@ -261,9 +261,9 @@
     <string name="map_lock_map_button_long_press_to_toggle">Premi a lungo per attivare/disattivare il blocco mappa</string>
     <string name="map_close_map_locked_msg">La mappa è bloccata. Sblocca la mappa premendo a lungo il pulsante di blocco.</string>
     <string name="map_settings_auto_zoom_while_riding_lbl">Zoom automatico durante la guida</string>
-    <string name="map_settings_auto_tilt_when_start_riding_lbl">Inclinazione automatica all'inizio della guida</string>
+    <string name="map_settings_auto_tilt_when_start_riding_lbl">Inclinazione automatica all\'inizio della guida</string>
     <string name="syncing_txt">Sincronizzazione con il cloud</string>
-    <string name="re_authenticate_error_txt">C'è stato un problema con il tuo account</string>
+    <string name="re_authenticate_error_txt">C\'è stato un problema con il tuo account</string>
     <string name="re_authenticate_txt">per favore accedi di nuovo</string>
     <string name="sign_in_btn">Accedi</string>
     <string name="remove_active_route">Rimuovi percorso attivo</string>
