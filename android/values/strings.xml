@@ -279,5 +279,6 @@
     <string name="empty_rides_list_txt">No rides yet! start a ride in the map and save it when finished</string>
     <string name="empty_routes_list_txt">No routes yet! create a new route in the map</string>
     <string name="empty_joined_routes_list_txt">You haven\'t joined any routes</string>
+    <string name="map_settings_use_north_up_camera_lbl">Use \"north up\" camera</string>
 </resources>
 

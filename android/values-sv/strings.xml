@@ -107,7 +107,6 @@
     <string name="promo_curvy_mode_text">Skapa de bästa kurviga rutterna för maximal känsla av frihet under din resa.</string>
     <string name="promo_controller_title">Controller-stöd</string>
     <string name="promo_controller_text">Konfigurera din fysiska controller på hojen för att styra appen, vilket ger enkel användning utan att du behöver ta av dig handskarna.</string>
-
     <string name="promo_title">Lås upp hela potentialen av Stegra.io!</string>
     <string name="promo_text">Alla funktioner ingår</string>
     <string name="promo_button_trial_text">Lås upp alla funktioner, prova Stegra.io Core i 7 dagar</string>
@@ -148,7 +147,6 @@
     <string name="route_mode_bird_lbl">Fågel</string>
     <string name="route_mode_mtb_lbl">Mountainbike</string>
     <string name="route_mode_mtb_txt">Detta ruttläge är utformat för att föredra mountainbikestigar. Avsnitten med detta ruttläge prioriterar mountainbikestigar och försöker undvika motorvägar samt huvudvägar.</string>
-
     <string name="route_mode_walking_txt">Detta ruttläge är utformat för att föredra gångstigar. Avsnitten med detta ruttläge prioriterar gångstigar och försöker undvika motorvägar samt huvudvägar.</string>
     <string name="distance_lbl">Avstånd</string>
     <string name="unpaved_distance_lbl">Oasfalterat avstånd</string>
@@ -271,6 +269,7 @@
     <string name="remove_active_route">Remove Active Route</string>
     <string name="remove_active_route_not_synced">The active route you\'re about to remove is currently being synced. If you remove it, it will be removed from the device and will not be synced to the cloud. Are you sure you want to remove it?</string>
     <string name="remove">Remove\t</string>
+    <string name="cancel">Cancel</string>
     <string name="download_started_lbl">GPX download started</string>
     <string name="edit_active_route">Edit active route</string>
     <string name="selected_route_settings">Selected route</string>
@@ -280,4 +279,6 @@
     <string name="empty_rides_list_txt">No rides yet! start a ride in the map and save it when finished</string>
     <string name="empty_routes_list_txt">No routes yet! create a new route in the map</string>
     <string name="empty_joined_routes_list_txt">You haven\'t joined any routed! go to any routes in the Discover screen and join to keep track</string>
+    <string name="map_settings_use_north_up_camera_lbl">Använd \"norr upp\"-kamera</string>
 </resources>
+

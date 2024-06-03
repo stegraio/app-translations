@@ -279,4 +279,6 @@
     <string name="empty_rides_list_txt">¡Aún no hay viajes! comienza un viaje en el mapa y guárdalo cuando termines</string>
     <string name="empty_routes_list_txt">¡Aún no hay rutas! crea una nueva ruta en el mapa</string>
     <string name="empty_joined_routes_list_txt">No te has unido a ninguna ruta</string>
+    <string name="map_settings_use_north_up_camera_lbl">Usar cámara \"norte arriba\"</string>
 </resources>
+

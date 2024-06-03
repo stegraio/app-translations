@@ -279,4 +279,6 @@
     <string name="empty_rides_list_txt">Nessun giro ancora! inizia un giro nella mappa e salvalo quando è finito</string>
     <string name="empty_routes_list_txt">Nessun percorso ancora! crea un nuovo percorso nella mappa</string>
     <string name="empty_joined_routes_list_txt">Non hai ancora aderito a nessun percorso</string>
+    <string name="map_settings_use_north_up_camera_lbl">Usa la fotocamera \"nord su\"</string>
 </resources>
+
