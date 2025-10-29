@@ -101,7 +101,7 @@
     <string name="promo_multiple_routes_text">Snadno přidejte a navigujte všechny své oblíbené trasy pro bezproblémové objevování.</string>
     <string name="promo_unlimited_routes_title">Neomezené vytváření tras</string>
     <string name="promo_unlimited_routes_text">Vytvářejte nekonečné trasy k objevování, všechny bezpečně uložené v našem cloudu pro pohodlný přístup.</string>
-    <string name="promo_adv_mode_title">Režim Adventure</string>
+    <string name="promo_adv_mode_title">Režim adventure</string>
     <string name="promo_adv_mode_text">Snadno vytvářejte nezpevněné trasy a využívejte terénní pneumatiky, ideální pro off-road nadšence.</string>
     <string name="promo_curvy_mode_title">Režim zatáček</string>
     <string name="promo_curvy_mode_text">Vytvářejte ty nejlepší klikaté trasy pro pocit svobody a vzrušení během jízdy.</string>
@@ -180,7 +180,7 @@
     <string name="map_settings_auto_re_center_lbl">Automaticky vycentrovat během jízdy</string>
     <string name="map_settings_auto_zoom_lbl">Automaticky přiblížit při zahájení jízdy</string>
     <string name="map_settings_show_tilt_lbl">Zobrazit tlačítka náklonu</string>
-    <string name="map_settings_show_speed_lbl">Zobrazit tachometr</string>
+    <string name="map_settings_show_speed_lbl">Zobrazit tachometr/dopravní značku rychlosti</string>
     <string name="map_settings_show_compass_lbl">Zobrazit kompas</string>
     <string name="map_settings_show_scale_bar_lbl">Zobrazit měřítko</string>
     <string name="map_settings_show_route_poi_lbl">Zobrazit body zájmu</string>
