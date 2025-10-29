@@ -30,8 +30,8 @@
     <string name="notifications_route_join">%s se připojil(a) k vaší trase</string>
     <string name="notifications_subscription_added">Děkujeme, že jste se stal(a) členem Stegra Core!</string>
     <string name="notifications_subscription_added_trial">Vaše týdenní zkušební verze Stegra Core byla spuštěna!</string>
-    <string name="notifications_subscription_added_trial_month">Vaše měsíční zkušební verze Stegra Core spuštěna!</string>
-    <string name="notifications_subscription_expired">Vaše předplatné Stegra Core vypršelo</string>
+    <string name="notifications_subscription_added_trial_month">>Vaše měsíční zkušební verze Stegra Core byla spuštěna!</string>
+    <string name="notifications_subscription_expired">Vaše předplatné Stegra Core vypršelo!</string>
     <string name="notifications_subscription_expiring">Vaše předplatné Stegra Core vyprší za dva dny. Přejděte do svého profilu a obnovte ho.</string>
     <string name="notifications_route_join_request_approved">%s schválil(a) vaši žádost o připojení k trase</string>
     <string name="discover_filter_all_latest_routes">Všechny nejnovější trasy</string>
@@ -80,9 +80,9 @@
     <string name="generic_tab_requests">Žádosti</string>
     <string name="route_request_approve">Schválit</string>
     <string name="payment_offer_month">Měsíc</string>
-    <string name="payment_offer_season">Sezóna</string>
+    <string name="payment_offer_season">Sezóní</string>
     <string name="payment_offer_annual">Roční</string>
-    <string name="payment_offer_months">Měsíce</string>
+    <string name="payment_offer_months">Měsíční</string>
     <string name="payment_week_try_lbl">1 týden zdarma na vyzkoušení</string>
     <string name="payment_offer_annualy">Ročně</string>
     <string name="payment_offer_then_lbl">potom</string>
@@ -187,7 +187,7 @@
     <string name="map_settings_show_waypoints_lbl">Zobrazit průjezdní body</string>
     <string name="map_settings_show_obstacles_lbl">Zobrazit překážky</string>
     <string name="map_settings_show_zoom_buttons_lbl">Zobrazit tlačítka přiblížení</string>
-    <string name="map_settings_snap_to_route_lbl">Držet se cest</string>
+    <string name="map_settings_snap_to_route_lbl">Držet se silnice</string>
     <string name="map_settings_turn_by_turn_lbl">Navigační pokyny</string>
     <string name="map_settings_zoom_in_lbl">Přiblížit</string>
     <string name="map_settings_zoom_out_lbl">Oddálit</string>
@@ -207,7 +207,7 @@
     <string name="map_navigation_roundabout_num_exit">. výjezd</string>
     <string name="map_navigation_time_left_lbl">zbývá</string>
     <string name="map_navigation_arrival_lbl">Příjezd</string>
-    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné mapy. Můžete si je stáhnout v sekci "Stáhnout offline mapy" níže. Po stažení se zde objeví.</string>
+    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné mapy. Můžete si je stáhnout v sekci "Stáhnout offline mapy" níže. Po stažení se objeví zde.</string>
     <string name="login_register_txt">Přihlásit se nebo registrovat</string>
     <string name="retry_lbl">Zkusit znovu</string>
     <string name="error_txt">Něco se pokazilo</string>
@@ -258,7 +258,7 @@
     <string name="coming_soon_lbl">Již brzy!</string>
     <string name="no_routes_loaded_txt">Nebyly přidány žádné trasy, přidejte jednu nebo více z knihovny, vytvořte novou přímo zde na mapě nebo prostě začněte jezdit.</string>
     <string name="routes_lbl">Trasy</string>
-    <string name="map_lock_map_button_long_press_to_toggle">Dlouhým stiskem zamknete mapu</string>
+    <string name="map_lock_map_button_long_press_to_toggle">Dlouhým stiskem zamkněte mapu</string>
     <string name="map_close_map_locked_msg">Mapa je zamknutá. Odemkněte ji dlouhým stiskem tlačítka zámku.</string>
     <string name="map_settings_auto_zoom_while_riding_lbl">Automatické přiblížení během jízdy</string>
     <string name="map_settings_auto_tilt_when_start_riding_lbl">Automatické naklonění při zahájení jízdy</string>
@@ -268,7 +268,7 @@
     <string name="sign_in_btn">Přihlásit se</string>
     <string name="remove_active_route">Odebrat aktivní trasu</string>
     <string name="remove_active_route_not_synced">Aktivní trasa, kterou se chystáte odebrat, se momentálně synchronizuje. Pokud ji odeberete, bude odebrána ze zařízení a nebude synchronizována s cloudem. Opravdu ji chcete odebrat?</string>
-    <string name="remove">Odebrat\t</string>
+    <string name="remove">Odebrat</string>
     <string name="cancel">Zrušit</string>
     <string name="download_started_lbl">Stažení GPX zahájeno</string>
     <string name="edit_active_route">Upravit aktivní trasu</string>
