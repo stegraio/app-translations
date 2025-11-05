@@ -57,7 +57,7 @@
     <string name="util_date_a_week_ago">" před týdnem"</string>
     <string name="util_date_months_ago">" měsíců zpět"</string>
     <string name="util_date_weeks_ago">" týdnů zpět"</string>
-    <string name="comments_no_comments_yet">Zatím žádné komentáře</string>
+    <string name="comments_no_comments_yet">žádné komentáře</string>
     <string name="comments_be_the_first">Buďte první, kdo přidá komentář</string>
     <string name="comments_add_comment">Přidat komentář...</string>
     <string name="comments_label">Komentáře</string>
@@ -67,7 +67,7 @@
     <string name="generic_tab_posts">Příspěvky</string>
     <string name="generic_tab_members">Členové</string>
     <string name="generic_tab_rides">Jízdy</string>
-    <string name="post_no_posts">Zatím žádné příspěvky</string>
+    <string name="post_no_posts">žádné příspěvky</string>
     <string name="post_add_post">Přidat příspěvek...</string>
     <string name="route_share_body">Sdílejte tento QR kód se svými přáteli a pozvěte je, aby se připojili k této trase.</string>
     <string name="map_search_not_contributor">Některé možnosti nejsou dostupné, protože nejste přispěvatelem vybrané trasy</string>
@@ -140,9 +140,9 @@
     <string name="route_mode_adv_lbl">Adventure</string>
     <string name="route_mode_adv_txt">Tento režim trasy je navržen tak, aby preferoval nezpevněné cesty. Úseky s tímto režimem trasy upřednostňují nezpevněné cesty a snaží se vyhnout dálnicím a hlavním silnicím.</string>
     <string name="route_mode_curvy_lbl">Zatáčky</string>
-    <string name="route_mode_curvy_txt">"Tento režim trasy je speciálně přizpůsoben tak, aby zahrnoval vzrušení z klikatých, zatáčkovitých silnic s asfaltovým povrchem. Tento režim upřednostňuje hadovité kouzlo menších, méně frekventovaných tras, evokující vzrušení z každého zatočení a obratu. Záměrně se vyhýbá dálnicím a hlavním silnicím. Naším cílem je poskytnout nejvíce vzrušující zážitky ze zatáčkovitých silnic. Připravte se přijmout dobrodružství méně prozkoumané cesty, zatáčku po zatáčce."</string>
-    <string name="route_mode_highway_lbl">Dálnice</string>
-    <string name="route_mode_highway_txt">Tento režim trasy je navržen tak, aby vás jen dostal do cíle. Úseky s tímto režimem trasy upřednostňují dálnice a hlavní silnice a snaží se vyhnout nezpevněným i menším cestám.</string>
+    <string name="route_mode_curvy_txt">Tento režim trasy je speciálně přizpůsoben tak, aby maximálně využila vzrušení z jízdy po klikatých silnicích s asfaltem. Úseky s tímto režimem upřednostňují hadovité kouzlo menších, méně frekventovaných silnic, evokující vzrušení z každého zatočení a obratu. Záměrně se vyhýbá dálnicím a hlavním silnicím. Cílem je poskytnout co nejvíce vzrušující zážitek z klikatých silnic. Vydejte se na cestu za dobrodružstvím po méně frekventovaných silnicích, zatáčku po zatáčce.</string>
+    <string name="route_mode_highway_lbl">Nejrychlejší</string>
+    <string name="route_mode_highway_txt">Tento režim trasy je navržen tak, aby vás co nejrychleji dostal do cíle. Úseky s tímto režimem trasy upřednostňují dálnice a hlavní silnice a snaží se vyhnout nezpevněným i menším cestám.</string>
     <string name="route_mode_walking_lbl">Chůze</string>
     <string name="route_mode_bird_lbl">Volné</string>
     <string name="route_mode_mtb_lbl">Horské kolo</string>
@@ -150,10 +150,10 @@
     <string name="route_mode_walking_txt">Tento režim trasy je navržen tak, aby preferoval pěší stezky. Úseky s tímto režimem trasy upřednostňují pěší stezky a snaží se vyhnout dálnicím i hlavním silnicím.</string>
     <string name="distance_lbl">Vzdálenost</string>
     <string name="unpaved_distance_lbl">Nezpevněná vzdálenost</string>
-    <string name="duration_lbl">Trvání</string>
+    <string name="duration_lbl">Doba jízdy</string>
     <string name="map_re_center_lbl">Vycentrovat</string>
-    <string name="map_layer_bright_lbl">Světlý</string>
-    <string name="map_layer_dark_lbl">Tmavý</string>
+    <string name="map_layer_bright_lbl">Světlá</string>
+    <string name="map_layer_dark_lbl">Tmavá</string>
     <string name="map_layer_satellite_lbl">Satelit</string>
     <string name="map_layer_swe_lbl" translatable="false">TOPO</string>
     <string name="map_layer_performance_lbl">Výkon</string>
@@ -170,7 +170,7 @@
     <string name="save_route_cloud_lbl">Uložit trasu do cloudu</string>
     <string name="save_route_cloud_txt">Vaše trasa byla uložena a bude synchronizována s cloudem</string>
     <string name="map_settings_title">Nastavení mapy a navigace</string>
-    <string name="map_settings_section_layer_lbl">Vrstva mapy</string>
+    <string name="map_settings_section_layer_lbl">Změnit mapu</string>
     <string name="map_settings_section_offline_maps_lbl">Stáhnout offline mapy</string>
     <string name="map_settings_section_icons_lbl">Zobrazit/skrýt ikony mapy</string>
     <string name="map_settings_section_controls_lbl">Zobrazit/skrýt ovládací prvky mapy</string>
@@ -208,7 +208,7 @@
     <string name="map_navigation_roundabout_num_exit">. výjezd</string>
     <string name="map_navigation_time_left_lbl">zbývá</string>
     <string name="map_navigation_arrival_lbl">Příjezd</string>
-    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné mapy. Můžete si je stáhnout v sekci "Stáhnout offline mapy" níže. Po stažení se objeví zde.</string>
+    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné offline mapy. Můžete si je stáhnout v sekci níže. Po stažení se objeví zde.</string>
     <string name="login_register_txt">Přihlásit se nebo registrovat</string>
     <string name="retry_lbl">Zkusit znovu</string>
     <string name="error_txt">Něco se pokazilo</string>
@@ -257,12 +257,12 @@
     <string name="active_routes_lbl">Aktivní trasy</string>
     <string name="create_new_route_lbl">Vytvořit novou trasu</string>
     <string name="coming_soon_lbl">Již brzy!</string>
-    <string name="no_routes_loaded_txt">Nebyly přidány žádné trasy, přidejte jednu nebo více z knihovny, vytvořte novou přímo zde na mapě nebo prostě začněte jezdit.</string>
+    <string name="no_routes_loaded_txt">Nebyly přidány žádné trasy. Přidejte jednu nebo více tras z knihovny nebo vytvořte novou trasu.</string>
     <string name="routes_lbl">Trasy</string>
     <string name="map_lock_map_button_long_press_to_toggle">Dlouhým stiskem zamkněte mapu</string>
     <string name="map_close_map_locked_msg">Mapa je zamknutá. Odemkněte ji dlouhým stiskem tlačítka zámku.</string>
     <string name="map_settings_auto_zoom_while_riding_lbl">Automatické přiblížení během jízdy</string>
-    <string name="map_settings_auto_tilt_when_start_riding_lbl">Automatické naklonění při zahájení jízdy</string>
+    <string name="map_settings_auto_tilt_when_start_riding_lbl">Automatické naklonění během jízdy</string>
     <string name="syncing_txt">Synchronizace do cloudu</string>
     <string name="re_authenticate_error_txt">Vyskytl se problém s vaším účtem.</string>
     <string name="re_authenticate_txt">Přihlaste se prosím znovu.</string>
@@ -283,7 +283,7 @@
     <string name="map_settings_use_north_up_camera_lbl">Použít kameru \"sever nahoře\"</string>
     <string name="import_gpx">Importovat GPX</string>
     <string name="routes_on_map_lbl">Trasy na mapě</string>
-    <string name="my_routes_lbl">Moje trasz</string>
+    <string name="my_routes_lbl">Moje trasy</string>
     <string name="map_searchbar_recent_searches">Nedávná vyhledávání</string>
     <string name="map_searchbar_recent_searches_empty">Žádná nedávná vyhledávání</string>
     <string name="done_lbl">Hotovo</string>
@@ -295,7 +295,7 @@
     <string name="map_remove_active_route_title">Odstranit trasu z mapy</string>
     <string name="map_remove_active_route_text">Trasa se odstraní pouze z mapy, stále ji najdete v knihovně, pokud ji máte uloženou.</string>
     <string name="confirm_lbl">Potvrdit</string>
-    <string name="dismiss_lbl">Skrýt</string>
+    <string name="dismiss_lbl">Zrušit</string>
     <string name="destination_lbl">Cíl</string>
     <string name="segments_lbl">Úseky</string>
     <string name="poi_settings_title">Nastavení bodů zájmu</string>
@@ -309,11 +309,11 @@
     <string name="profile_logged_out_title">Byl(a) jste odhlášen(a)!</string>
     <string name="profile_logged_out_text">Vaše přihlášení vypršelo nebo jste se odhlásil(a). Pro používání aplikace se prosím přihlašte.</string>
     <string name="profile_logged_out_btn">Přihlásit se znovu</string>
-    <string name="poi_settings_sync_pois">Synchronizace bodů zájmu z cloudu</string>
+    <string name="poi_settings_sync_pois">Synchronizovat body zájmu z cloudu</string>
     <string name="poi_settings_show_my">Zobrazit moje body zájmu</string>
     <string name="route_mode_avoid_highway_lbl">Vyhnout se dálnicím</string>
     <string name="selected_lbl">Vybráno</string>
-    <string name="map_settings_use_fullscreen_lbl">Průhledné pozadí stavového řádeku</string>
+    <string name="map_settings_use_fullscreen_lbl">Průhledné pozadí stavového řádku</string>
     <string name="map_layer_bright_clean_lbl">Jasná čistá</string>
     <string name="map_layer_osm_liberty_lbl">OSM Liberty</string>
     <string name="show_options_lbl">Zobrazit možnosti</string>
