@@ -174,8 +174,8 @@
     <string name="map_settings_section_offline_maps_lbl">Download offline maps</string>
     <string name="map_settings_section_icons_lbl">Show/hide map icons</string>
     <string name="map_settings_section_controls_lbl">Show/hide map controls</string>
-    <string name="map_settings_section_navigation_lbl">Navigation settings</string>
-    <string name="map_settings_section_controller_lbl">Controller settings</string>
+    <string name="map_settings_section_navigation_lbl">Navigation</string>
+    <string name="map_settings_section_controller_lbl">Controller</string>
     <string name="map_settings_auto_hide_lbl">Auto hide controls while riding</string>
     <string name="map_settings_auto_re_calc_lbl">Auto re-calculate when off route</string>
     <string name="map_settings_auto_re_center_lbl">Auto re-center while riding</string>
@@ -189,6 +189,7 @@
     <string name="map_settings_show_obstacles_lbl">Show obstacles</string>
     <string name="map_settings_show_zoom_buttons_lbl">Show zoom buttons</string>
     <string name="map_settings_snap_to_route_lbl">Snap to route</string>
+    <string name="map_settings_snap_to_route_txt">Snap the route arrow to the route line</string>
     <string name="map_settings_turn_by_turn_lbl">Turn-by-turn instructions</string>
     <string name="map_settings_zoom_in_lbl">Zoom in</string>
     <string name="map_settings_zoom_out_lbl">Zoom out</string>
@@ -208,7 +209,7 @@
     <string name="map_navigation_roundabout_num_exit">th exit</string>
     <string name="map_navigation_time_left_lbl">left</string>
     <string name="map_navigation_arrival_lbl">Arrival</string>
-    <string name="map_settings_no_downloaded_maps">You don\'t have any downloaded maps. You can download maps from the "Download offline maps" section below. Once downloaded they will appear here.</string>
+    <string name="map_settings_no_downloaded_maps">You don\'t have any downloaded maps. You can download maps from the "Offline maps" section in settings. Once downloaded they will appear here.</string>
     <string name="login_register_txt">Sign in or Register</string>
     <string name="retry_lbl">Retry</string>
     <string name="error_txt">Something went wrong</string>
@@ -274,8 +275,8 @@
     <string name="download_started_lbl">GPX download started</string>
     <string name="edit_active_route">Edit active route</string>
     <string name="selected_route_settings">Selected route</string>
-    <string name="map_settings_route_color_lbl">Color</string>
-    <string name="map_settings_set_color_lbl">Set color</string>
+    <string name="map_settings_route_color_lbl">Route color</string>
+    <string name="map_settings_set_color_lbl">Set default route color</string>
     <string name="reset_lbl">Reset</string>
     <string name="empty_rides_list_txt">No rides yet! start a ride in the map and save it when finished</string>
     <string name="empty_routes_list_txt">No routes yet! create a new route in the map</string>
@@ -314,11 +315,8 @@
     <string name="route_mode_avoid_highway_lbl">Avoid highways</string>
     <string name="selected_lbl">Selected</string>
     <string name="map_settings_use_fullscreen_lbl">Transparent status bar background</string>
-    <string name="map_layer_bright_clean_lbl">Bright Clean</string>
-    <string name="map_layer_osm_liberty_lbl">OSM Liberty</string>
     <string name="show_options_lbl">Show options</string>
     <string name="hide_options_lbl">Hide options</string>
-    <string name="map_settings_longpress_place_pin_lbl">Use long press to place pin</string>
     <string name="route_mode_avoid_gates_lbl">Avoid gates</string>
     <string name="map_settings_button_size_lbl">Button size</string>
     <string name="android_auto_active">Android Auto active</string>
@@ -326,6 +324,10 @@
     <string name="android_auto_switch_to_phone_btn">Switch to phone</string>
     <string name="android_auto_disabled">Map is active on your phone</string>
     <string name="android_auto_enable_btn">Enable Android Auto</string>
+
+    <string name="map_layer_bright_clean_lbl">Bright Clean</string>
+    <string name="map_layer_osm_liberty_lbl">OSM Liberty</string>
+    <string name="map_settings_longpress_place_pin_lbl">Use long press to place pin</string>
     <string name="map_settings_puck_size_lbl">Navigation arrow size.</string>
     <string name="map_settings_puck_size_desc">Need to restart the app to take affect.</string>
     <string name="map_settings_voice_instructions_title">Voice instruction settings</string>
@@ -333,4 +335,30 @@
     <string name="map_settings_voice_instructions_volume_lbl">Volume</string>
     <string name="map_settings_voice_instructions_voice_type_lbl">Voice</string>
     <string name="map_settings_voice_instructions_effect_type_lbl">Sound effect</string>
+    <string name="permissions_location_notification_description">Stegra needs location access to start a ride and Notifications track your route.</string>
+    <string name="open_settings_lbl">Open settings</string>
+    <string name="permissions_required_title">Permissions required</string>
+    <string name="permissions_enable_in_settings_txt">Please enable location permission in Settings.</string>
+    <string name="settings_no_controller_detected_lbl">No controller detected</string>
+    <string name="settings_tab_general">General</string>
+    <string name="settings_tab_offline_maps">Offline maps</string>
+    <string name="settings_tab_other">Other</string>
+    <string name="map_settings_section_map_display_lbl">Map display and camera</string>
+    <string name="map_settings_section_screen_overlays_lbl">Screen overlays</string>
+    <string name="poi_settings_syncing_pois">Syncing POIs...</string>
+    <string name="settings_offline_maps_active_downloads_lbl">Active downloads</string>
+    <string name="settings_offline_maps_available_maps_lbl">Available maps</string>
+    <string name="settings_offline_mode_lbl">Offline mode: Showing downloaded maps.</string>
+    <string name="settings_offline_maps_search_maps_lbl">Search maps..</string>
+    <string name="settings_offline_maps_show_downloaded_maps_lbl">Show downloaded maps</string>
+    <string name="settings_offline_maps_empty_lbl">No downloaded maps</string>
+    <string name="route_role_owner_lbl">Owner</string>
+    <string name="route_role_contributor_lbl">Contributor</string>
+    <string name="route_role_member_lbl">Member</string>
+    <string name="route_share_title_lbl">Share route</string>
+    <string name="poi_settings_filter_lbl">Filter POI types</string>
+    <string name="show_all_lbl">Show all</string>
+    <string name="hide_all_lbl">Hide all</string>
+    <string name="show_more_lbl">Show more</string>
+    <string name="show_less_lbl">Show less</string>
 </resources>
