@@ -201,7 +201,7 @@
     <string name="map_settings_toggle_map_focus_lbl">Växla kartfokus</string>
     <string name="map_settings_not_set_lbl">Inte inställt</string>
     <string name="map_settings_controller_press_a_key_replace_txt">Tryck på en tangent/knapp för att ersätta</string>
-    <string name="map_settings_controller_with_new_key_txt">med den nya tangen för denna åtgärd eller tryck</string>
+    <string name="map_settings_controller_with_new_key_txt">med den nya tangenten för denna åtgärd eller tryck</string>
     <string name="map_settings_controller_to_clear_txt">för att rensa den.</string>
     <string name="info_no_internet_txt">Ingen internetanslutning</string>
     <string name="map_navigation_roundabout_1_exit">1:a utfarten</string>
