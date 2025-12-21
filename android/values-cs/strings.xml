@@ -209,7 +209,7 @@
     <string name="map_navigation_roundabout_num_exit">. výjezd</string>
     <string name="map_navigation_time_left_lbl">zbývá</string>
     <string name="map_navigation_arrival_lbl">Příjezd</string>
-    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné offline mapy. Můžete si je stáhnout v sekci níže. Po stažení se objeví zde.</string>
+    <string name="map_settings_no_downloaded_maps">Nemáte stažené žádné offline mapy. Po stažení se objeví zde.</string>
     <string name="login_register_txt">Přihlásit se nebo registrovat</string>
     <string name="retry_lbl">Zkusit znovu</string>
     <string name="error_txt">Něco se pokazilo</string>
@@ -315,7 +315,7 @@
     <string name="route_mode_avoid_highway_lbl">Vyhnout se dálnicím</string>
     <string name="selected_lbl">Vybráno</string>
     <string name="map_settings_use_fullscreen_lbl">Průhledné pozadí stavového řádku</string>
-    <string name="map_layer_bright_clean_lbl">Bright Clean</string>
+    <string name="map_layer_bright_clean_lbl">Světlá (čistá)</string>
     <string name="map_layer_osm_liberty_lbl">OSM Liberty</string>
     <string name="show_options_lbl">Zobrazit možnosti</string>
     <string name="hide_options_lbl">Skrýt možnosti</string>
@@ -347,7 +347,7 @@
     <string name="poi_settings_syncing_pois">Synchronizace bodů...</string>
     <string name="settings_offline_maps_active_downloads_lbl">Aktivní stahování</string>
     <string name="settings_offline_maps_available_maps_lbl">Dostupné mapy</string>
-    <string name="settings_offline_mode_lbl">Offline: Pouze stažené mapy.</string>
+    <string name="settings_offline_mode_lbl">Offline mód: Pouze stažené mapy.</string>
     <string name="settings_offline_maps_search_maps_lbl">Hledat mapy...</string>
     <string name="settings_offline_maps_show_downloaded_maps_lbl">Zobrazit stažené</string>
     <string name="settings_offline_maps_empty_lbl">Žádné stažené mapy</string>
